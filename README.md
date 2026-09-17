@@ -4,7 +4,7 @@
 
 ## 在线体验
 
-<https://wuoo.github.io/birthday-atelier/>
+<https://wuoo.github.io/birthdaycake/>
 
 ## 主要体验
 
